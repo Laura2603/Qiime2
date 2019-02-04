@@ -1,0 +1,8 @@
+#SampleID	Profundidad	T °C	Oxígeno	Fosfato	variable3	variable4	variable5	variable6	variable7	Description
+sample-34_1	0	24.5	6.9	0	6.02	0	32.07	5.44	23.33	river1lakebacteria
+sample-35_1	2	24.5	7	0	4.2	0	38.8	4.33	20	river1lakebacteria
+sample-36_1	4	24.3	6.9	0	14.01	0	28.01	4.51	16.67	river1lakebacteria
+sample-37_1	6	24.3	7	0	13.03	0	50.56	4.77	20	river1lakebacteria
+sample-38_1	8	24.2	6.2	0	13.03	0	44.26	5.45	16.67	river1lakebacteria
+sample-39_1	10	24.2	3.3	0	13.03	0	44.26	5.45	16.67	river1lakebacteria
+sample-40_1	0	25	5	5	5	5	5	5	5	river2lakebacteria
