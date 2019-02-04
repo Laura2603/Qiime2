@@ -1,0 +1,16 @@
+# single-end PHRED 33 fastq manifest file for forward reads
+
+sample-id,absolute-filepath,direction
+
+sample-34_1,$PWD/sample-34_1.fastq.gz,forward
+
+sample-35_1,$PWD/sample-35_1.fastq.gz,forward
+sample-36_1,$PWD/sample-36_1.fastq.gz,forward
+
+sample-37_1,$PWD/sample-37_1.fastq.gz,forward
+
+sample-38_1,$PWD/sample-38_1.fastq.gz,forward
+
+sample-39_1,$PWD/sample-39_1.fastq.gz,forward
+
+sample-40_1,$PWD/sample-40_1.fastq.gz,forward
